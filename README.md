@@ -1,7 +1,7 @@
 # cp-external-cc
 ## Install Instructions
-First of all, download the cc_edit.js file listed above. I probably also sent you this code in an e-mail.
-Next we need to ensure this code will be included in Captivate. We can do this by loading this code 'headlessly'. We use a similiar process to load the CpExtra library into Captivate. So follow the process explained in the video below. Just swap out the **Infosemantics_CpExtra.js** for **cc_edit.js**.
+First of all, download the cp-external-cc-box.js file listed above. I probably also sent you this code in an e-mail.
+Next we need to ensure this code will be included in Captivate. We can do this by loading this code 'headlessly'. We use a similiar process to load the CpExtra library into Captivate. So follow the process explained in the video below. Just swap out the **Infosemantics_CpExtra.js** for **cp-extranl-cc-box.js**.
 
 [![](http://img.youtube.com/vi/i-px1CkiDHM/0.jpg)](http://www.youtube.com/watch?v=i-px1CkiDHM "Headless Loading")
 

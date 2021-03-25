@@ -1,6 +1,6 @@
 {
   "name": "cp-external-cc-box",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Makes Captivate's CC box appear outside of the content",
   "main": "index.js",
   "scripts": {
