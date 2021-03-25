@@ -14,14 +14,10 @@ The code will not automatically make the CC box appear on the right side of the 
 ![Project > Skin Editor inside Captivate](https://github.com/WidgetKing/cp-external-cc-box/blob/main/images/project-skin-editor.png?raw=true)
 
 2. Enabled Closed Captioning and click the **Settings...** button.
-<br/>
-<br/>
 
 ![Skin Editor Dialogue with Closed Captioning settings button](https://github.com/WidgetKing/cp-external-cc-box/blob/main/images/cc-settings.jpg?raw=true)
 
 3. **VERY IMPORTANT** From the dropdown menu pick **Project**. Otherwise you will be only editing how the CC box appears on a single slide.
-<br/>
-<br/>
 
 ![Selecting Project from the dropdown menu](https://github.com/WidgetKing/cp-external-cc-box/blob/main/images/cc-whole-project.png?raw=true)
 
@@ -29,17 +25,13 @@ The code will not automatically make the CC box appear on the right side of the 
     - Align: Middle Right
     - H: 100%
     - W: 30%
-<br/>
-<br/>
 
 ![CC settings for putting the box on the right of the screen](https://github.com/WidgetKing/cp-external-cc-box/blob/main/images/cc-whole-project.png?raw=true)
 
 5. Double check that you have selected **Project** from the dropdown. Then click the **apply** button.
-<br/>
-<br/>
 
 ![Clicking the apply button](https://github.com/WidgetKing/cp-external-cc-box/blob/main/images/cc-apply.png?raw=true)
 
-6. Remember, for each slide that you want the CC to appear, you will need to include an audio clip, even if it's just silence for the duration of the slide. You then input your text into the Slide Notes pane and enable them for closed captioning.
+6. Remember, for each slide that you want the CC to appear, you will need to include an audio clip, even if it's just silence for the duration of the slide. You then input your text into the Slide Notes pane and enable them for closed captioning. If you have not selected any text to appear in the closed captioning, then Captivate will automatically close down the Closed Captioning pane, as it believes there is nothing to show.
 
 And that should be everything! If you encounter any issues, you can send me an e-mail or flag them in the issues section of this Github repository.
