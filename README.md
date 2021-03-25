@@ -10,31 +10,37 @@ Your code should now be installed! Remember, you'll need to do this for **each**
 ## Edit Captivate's CC Settings to move the CC box to the right.
 The code will not automatically make the CC box appear on the right side of the screen. We need to make that change from within Captivate.
 1. Go to Project > Skin Editor.
-<div>
+
+<br/>
+<br/>
+
 ![Project > Skin Editor inside Captivate](https://github.com/WidgetKing/cp-external-cc-box/blob/main/images/project-skin-editor.png?raw=true)
-</div>
 
 2. Enabled Closed Captioning and click the **Settings...** button.
-<div>
+<br/>
+<br/>
+
 ![Skin Editor Dialogue with Closed Captioning settings button](https://github.com/WidgetKing/cp-external-cc-box/blob/main/images/cc-settings.jpg?raw=true)
-</div>
 
 3. **VERY IMPORTANT** From the dropdown menu pick **Project**. Otherwise you will be only editing how the CC box appears on a single slide.
-<div>
+<br/>
+<br/>
+
 ![Selecting Project from the dropdown menu](https://github.com/WidgetKing/cp-external-cc-box/blob/main/images/cc-whole-project.png?raw=true)
-</div>
 
 4. Change the CC settings to the following:
     - Align: Middle Right
     - H: 100%
     - W: 30%
-<div>
+<br/>
+<br/>
+
 ![CC settings for putting the box on the right of the screen](https://github.com/WidgetKing/cp-external-cc-box/blob/main/images/cc-whole-project.png?raw=true)
-</div>
 
 5. Double check that you have selected **Project** from the dropdown. Then click the **apply** button.
-<div>
+<br/>
+<br/>
+
 ![Clicking the apply button](https://github.com/WidgetKing/cp-external-cc-box/blob/main/images/cc-apply.png?raw=true)
-</div>
 
 And that should be everything! If you encounter any issues, you can send me an e-mail or flag them in the issues section of this Github repository.
