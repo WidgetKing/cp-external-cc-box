@@ -11,9 +11,6 @@ Your code should now be installed! Remember, you'll need to do this for **each**
 The code will not automatically make the CC box appear on the right side of the screen. We need to make that change from within Captivate.
 1. Go to Project > Skin Editor.
 
-<br/>
-<br/>
-
 ![Project > Skin Editor inside Captivate](https://github.com/WidgetKing/cp-external-cc-box/blob/main/images/project-skin-editor.png?raw=true)
 
 2. Enabled Closed Captioning and click the **Settings...** button.
@@ -42,5 +39,7 @@ The code will not automatically make the CC box appear on the right side of the 
 <br/>
 
 ![Clicking the apply button](https://github.com/WidgetKing/cp-external-cc-box/blob/main/images/cc-apply.png?raw=true)
+
+6. Remember, for each slide that you want the CC to appear, you will need to include an audio clip, even if it's just silence for the duration of the slide. You then input your text into the Slide Notes pane and enable them for closed captioning.
 
 And that should be everything! If you encounter any issues, you can send me an e-mail or flag them in the issues section of this Github repository.
