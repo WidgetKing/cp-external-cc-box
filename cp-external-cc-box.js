@@ -24,6 +24,7 @@
 				"float": "right",
 				"inset": "auto",
 				"right": "0px",
+				"visibility": "visible",
 				"width": originalCCWidth + "px"
 			});
 
@@ -31,8 +32,15 @@
 		}
 
 		function hideCC() {
-			// console.log("HIDE");
-			mainContainer.style.width = originalProjectWidth + "px";
+			if (cp.CCInfo.userVisibilityIntent) {
+				// At this point we're trying to close down the CC even though the user
+				// stated it should remain open.
+
+				// So let's just open it up again.
+				cpCmndCC = 1;
+			} else {
+				mainContainer.style.width = originalProjectWidth + "px";
+			}
 		}
 
 
